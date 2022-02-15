@@ -1,0 +1,16 @@
+#Arithmetic Operations in HackerRank
+
+a = int(input('Enter a value:'))
+b = int(input('Enter a value:'))
+print(a+b)
+print(a-b)
+print(a*b)
+
+
+OUTPUT:
+Enter a value: 3
+Enter a value: 2
+5
+1
+6
+
