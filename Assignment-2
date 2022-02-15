@@ -1,0 +1,15 @@
+#Division program
+
+a =int(input('Enter a number:'))
+b =int(input('Enter a number:'))
+print(a//b)
+print(a/b)
+
+
+OUPUT:
+Enter a number:4
+Enter a number:5
+1
+1.333333333
+
+
